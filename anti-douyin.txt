@@ -1,0 +1,17 @@
+||.ixigua.com^$important
+||.ixiguavideo.com^$important
+||.snssdk.com^$important
+||.amemv.com^$important
+||.toutiao.com^$important
+||.douyinvod.com^$important
+||.bytetos.com^$important
+||.douyin.com^$important
+||.douyinpic.com^$important
+||.douyincdn.com^$important
+||.zijieapi.com^$important
+||.bytedance.com^$important
+||.bytegecko.com^$important
+||.byteimg.com^$important
+||.bytemastatic.com^$important
+||.douyinstatic.com^$important
+||*.open-douyin.com^$important
